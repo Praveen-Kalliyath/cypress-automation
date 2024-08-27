@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node","cypress-xpath"]
+  },
+  "include": ["**/*.ts"],
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+}
